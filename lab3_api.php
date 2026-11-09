@@ -2,14 +2,14 @@
 header('Content-Type: application/json');
 
 $team = [
-    "group" => "Group 5",
+    "group" => "Group 2",
     "section" => "BSIT-3K",
     "school" => "Pamantasan ng Lungsod ng Muntinlupa",
     "members" => [
         [
-            "name" => "Jay Lariba",
+            "name" => "Eduard Zymone",
             "location" => "Muntinlupa City, Philippines",
-            "email" => "laribajay_bsit@plmun.edu.ph",
+            "email" => "eduardzymonebagangan_bsit@plmun.edu.ph",
             "role" => "Application Developer"
         ],
         [
