@@ -1,8 +1,8 @@
 <?php
 $json = '{
-    "name": "Justine Mike Dela Isla",
+    "name": "Eduard Zymone",
     "location": "Muntinlupa City, Philippines",
-    "email": "delaislajustinemike_bsit@plmun.edu.ph",
+    "email": "eduardzymonebagangan_bsit@plmun.edu.ph",
     "role": "Interface Developer"
 }';
 
